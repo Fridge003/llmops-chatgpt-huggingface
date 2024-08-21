@@ -28,7 +28,7 @@ kubectl delete pods --all
 kubectl delete svc --all
 
 kubectl api-resources
-kebectl get deployments
+kubectl get deployments
 kubectl apply -f deployment.yaml
 kubectl describe deployments
 

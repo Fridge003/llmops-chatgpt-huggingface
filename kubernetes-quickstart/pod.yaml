@@ -8,6 +8,10 @@ metadata:
 spec:
   containers:
   - name: myapp
-    image: manifoldailearning/custom-nginx
+    image: fridge233/my-nginx
+    resources:
+      limits:
+        memory: "128Mi"
+        cpu: "500m"
     ports:
       - containerPort: 80
