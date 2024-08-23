@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: mychatgptcontainer
-        image: manifoldailearning/chatgpt-project:v1 
+        image: fridge233/cuda-agent
         resources:
           limits:
             memory: "128Mi"
