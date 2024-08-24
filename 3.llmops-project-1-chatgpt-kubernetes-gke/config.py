@@ -1,2 +1,1 @@
-#api_key = "api-id"
-assistant_id = "asst_VaRmvfp30jPvLuVJgYzxGmXf"
+assistant_id = "asst_kZdW63VN54HNq9d65pJaVnUi"
